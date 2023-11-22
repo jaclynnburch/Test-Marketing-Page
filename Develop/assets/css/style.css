@@ -1,4 +1,4 @@
-/* header boarder */
+/* reset styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -46,7 +46,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* font size */
+/* body content */
 p {
     font-size: 16px;
 }
@@ -92,13 +92,13 @@ p {
     color: #ffffff;
 }
 
-
+/* benefit h3 parameters */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* benefit h3 parameters */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
